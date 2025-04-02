@@ -10,6 +10,7 @@ public class User {
     private String firtsname;
     private String passwort;
     private Product[] products;
+    private String test;
 
     public User() {
     }
