@@ -6,5 +6,6 @@ public class Main {
     public static void main(String[] args) {
       User user=new User();
       user.registrasiya();
+        System.out.println("test");
     }
 }
